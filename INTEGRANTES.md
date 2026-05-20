@@ -6,4 +6,4 @@
 | SIDNEY FERREIRA BAPTISTA JUNIOR   | [MATRÍCULA] | Desenvolvedor Backend               |
 | LORENA KAILANY OLIVEIRA FERNANDES | 2425133     | Desenvolvedor Backend               |
 | LIEDSON KAUAM OLIVEIRA FERNANDES  | 2425131     | Desenvolvedor Backend               |
-| DEBORAH MEDEIROS DO NASCIMENTO    | [MATRÍCULA] | Desenvolvedor Backend               |
+| DEBORAH MEDEIROS DO NASCIMENTO    | 2426930     | Desenvolvedor Backend               |
