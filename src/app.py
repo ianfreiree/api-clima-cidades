@@ -6,7 +6,9 @@ import urllib.parse
 
 app = Flask(__name__)
 CORS(app) # Habilita CORS para testes via navegador
-app.config['JSON_AS_ASCII'] = False # Suporte a UTF-8
+
+# Configuração para garantir que acentos (UTF-8) apareçam corretamente no JSON
+app.config['JSON_AS_ASCII'] = False
 
 # Endpoint 3: Health Check
 @app.route('/api/v1/health', methods=['GET'])
