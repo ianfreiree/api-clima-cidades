@@ -42,9 +42,13 @@ python -m venv .venv
 ```
 
 **Ative o Ambiente Virtual!** *(É necessário ativar a `.venv` sempre que for usar o projeto)*
-- **No Windows:**
+- **No Windows (Prompt de Comando ou PowerShell):**
   ```bash
   .\.venv\Scripts\activate
+  ```
+- **No Windows (Git Bash):**
+  ```bash
+  source .venv/Scripts/activate
   ```
 - **No Linux ou Mac:**
   ```bash
