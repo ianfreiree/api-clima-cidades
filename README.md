@@ -98,10 +98,17 @@ Lista municípios que se encontram no estado brasileiro passado por sigla. Você
 ## 🧪 Como Rodar os Testes Automatizados
 
 O projeto vem acompanhado de testes garantindo a segurança de nossas regras contra erros futuros. 
-Para rodar nosso ambiente de testes (`pytest`), mantenha a **`.venv`** ativada e rode direto na pasta raiz do projeto:
+Para rodar nosso ambiente de testes (`pytest`), siga os passos abaixo:
+
+1. Certifique-se de estar na **pasta principal do projeto**.
+2. Garanta que o seu **ambiente virtual (`.venv`) está ativado**.
+3. Digite **exatamente** o código abaixo no terminal e aperte Enter:
+
 ```bash
 pytest tests/
 ```
+
+> ⚠️ **Atenção:** Não use o comando `cd` antes. É apenas a palavra `pytest` seguida do nome da pasta `tests/`.
 
 ---
 
