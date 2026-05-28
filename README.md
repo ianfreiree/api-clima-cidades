@@ -114,7 +114,7 @@ pytest tests/
 
 ## 📬 Postman (Coleção de Rotas Prontas)
 
-Quer testar a API com um programa profissional que seu professor vai amar, direto ao ponto? Nós facilitamos essa parte!
+Quer testar a API com um programa profissional?
 1. Olhe na pasta `docs/` e você encontrará o arquivo `postman_collection.json`.
 2. Abra seu **Postman**.
 3. Clique em **Import** (menu do canto superior esquerdo da área de trabalho do Postman).
